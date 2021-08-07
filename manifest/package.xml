@@ -5,24 +5,19 @@
 		<name>ApexClass</name>
 	</types>
 	<types>
-		<members>*</members>
-		<name>ApexPage</name>
-	</types>
-	<types>
-		<members>*</members>
-		<name>ApexTestSuite</name>
-	</types>
-	<types>
-		<members>*</members>
-		<name>ApexTrigger</name>
-	</types>
-	<types>
-		<members>*</members>
-		<name>AuraDefinitionBundle</name>
-	</types>
-	<types>
-		<members>*</members>
+		<members>BeersApp</members>
 		<name>CustomApplication</name>
+	</types>
+	<types>
+		<members>Beer__c.Description__c</members>
+		<members>Beer__c.Id__c</members>
+		<members>Beer__c.Name__c</members>
+		<members>Beer__c.Tagline__c</members>
+		<name>CustomField</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>CustomLabels</name>
 	</types>
 	<types>
 		<members>Beer__c</members>
@@ -30,7 +25,23 @@
 	</types>
 	<types>
 		<members>*</members>
-		<name>LightningComponentBundle</name>
+		<name>CustomTab</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>FlexiPage</name>
+	</types>
+	<types>
+		<members>Beer__c-Beer Layout</members>
+		<name>Layout</name>
+	</types>
+	<types>
+		<members>BeerExternalSite</members>
+		<name>RemoteSiteSetting</name>
+	</types>
+	<types>
+		<members>Beer__c</members>
+		<name>SharingRules</name>
 	</types>
 	<types>
 		<members>*</members>
